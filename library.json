@@ -1,0 +1,17 @@
+[
+    {
+        "Title": "The Great Gatsby",
+        "Author": "F. Scott Fitzgerald",
+        "Year": 1925,
+        "Genre": "Fiction",
+        "Read": true
+    },
+    {
+        "Title": "1984",
+        "Author": "George Orwell",
+        "Year": 1949,
+        "Genre": "Dystopian",
+        "Read": false
+    }
+   
+]
